@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=F1E1A6&height=300&section=header&text=malangzo's+Github&fontSize=80&fontAlign=55)
+![header](https://capsule-render.vercel.app/api?type=venom&color=F1E1A6&height=300&section=header&text=malangzo's+Github&fontSize=80&fontAlign=50)
 <div align="center">
 
 [![malangzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=malangzo&count_private=true&show_icons=true&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
