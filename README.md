@@ -37,15 +37,9 @@
 <h5>AI 기반 AWS 풀스택 인공지능 개발자 양성과정 - IT여성기업인협회 (2024.03. - 2024.08.)</h5>
 <br><br>
 <h3>📚 Project</h3>
-<a href="https://github.com/malangzo/Traditional-Liquor">
-<h5>전통주 안주 추천 서비스</h5>
-</a>
-<a href="https://github.com/malangzo/METRiGs">
-<h5>METRiGs: 메뉴판 텍스트 추출 및 번역 서비스</h5>
-</a>
-<a href="https://github.com/malangzo/Soribwa">
-<h5>소리봐: 중증 청각장애인을 위한 소음 및 대화 감정 분석 서비스</h5>
-</a>
+<h5>전통주 안주 추천 서비스</h5> <a href="https://github.com/malangzo/Traditional-Liquor">🍷 click!</a>
+<h5>METRiGs: 메뉴판 텍스트 추출 및 번역 서비스</h5> <a href="https://github.com/malangzo/METRiGs"> 🍽 click!</a>
+<h5>소리봐: 중증 청각장애인을 위한 소음 및 대화 감정 분석 서비스</h5> <a href="https://github.com/malangzo/Soribwa"> 🔉 click!</a>
 <br><br>
 <h3>📞 Contact</h3>
 <div>
